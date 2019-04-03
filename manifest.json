@@ -1,0 +1,261 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/Skander/Projects/Unreal/MyProject/Documentation/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/_a_enemy_character.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/_a_enemy_character.html",
+          "hash": "QS0Bc7tMsbsUhS/xj+tukA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/_a_enemy_trigger_capsule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/_a_enemy_trigger_capsule.html",
+          "hash": "rkw3ctFvyjaa36C71WDauA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/_a_generated_room.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/_a_generated_room.html",
+          "hash": "2SPmFW3Exf1NnWNdI8nO8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/_a_hook.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/_a_hook.html",
+          "hash": "JggBaZAyEV7/oatbhi71Zg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/_a_level_layout_generator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/_a_level_layout_generator.html",
+          "hash": "x/ml37hur2ZbTxc0670eag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/_a_player_character.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/_a_player_character.html",
+          "hash": "JTW/tqT5Am4qNIGdAZuP+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/_a_procedural_room.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/_a_procedural_room.html",
+          "hash": "5by9VhEhbwIyLwKDIh2zvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/_a_testing_git.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/_a_testing_git.html",
+          "hash": "DOXDBTwH0wqhf6Dri3MTlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/_i_state.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/_i_state.html",
+          "hash": "rueiyk3l7DcqZYXQ8dw4XA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/_my_project.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/_my_project.html",
+          "hash": "CYtJeW1GdpQ1UKKs/3ufYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/_state_machine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/_state_machine.html",
+          "hash": "zwRtpy14uEsMhsompQlvkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/_u_player_character_movement_component.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/_u_player_character_movement_component.html",
+          "hash": "nUiBOFXpdwUMoBMwfkH5lA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "Enrhd4L5bBjq7Ys3dlY/XQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/how-to-implement-character-movement-component.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/how-to-implement-character-movement-component.html",
+          "hash": "KCXEGjCMUc+tSs87OaxzKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "1XupN1/ahPRMHFbWTWhkAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "C53POS3obh8QhqysNdGsDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "dsLvjmJqW4ap9n/mSwmv5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "elMVqELkx+LhYCJWuP2g6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build"
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
